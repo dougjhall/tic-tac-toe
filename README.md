@@ -9,3 +9,7 @@ It has basic input verification built in that will prevent the player from submi
 It is very much a MVP version of the game. 
 
 Hope you enjoy! 
+
+---
+
+![](https://github.com/dougjhall/tic-tac-toe/blob/main/game_play.gif)
